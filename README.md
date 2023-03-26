@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a full-time student at Microverse an Online Trainning School.
 - 👯 I’m always looking to collaborate on new projects.
 - 📫 You can reach me from [my portfolio](http://adamilare.github.io)
-- ⚡ I love 💻 Solving Algorithm Problems | 📗 Reading | 🚵 Jung
+- ⚡ I love 💻 Solving Algorithm Problems | 📗 Reading | 🚵 Nature
 <hr>
 
 ### Languages and Tools
