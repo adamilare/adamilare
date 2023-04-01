@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center"> 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAS/coding.gif" width="300"/>
+<!-- <img src="https://media.tenor.com/qJ5evVs-_uUAAAAS/coding.gif" width="300"/> -->
 </div>
 
 <h1 align="center"> 
