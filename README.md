@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 # A little bit about me
 
-- 🔭 I’m currently a full-time student at Microverse an Online Trainning School.
+- 🔭 I currently works at [Torre](https://torre.ai).
 - 👯 I’m always looking to collaborate on new projects.
-- 📫 You can reach me from [my portfolio](http://adamilare.github.io)
+- 📫 You can reach me from [my portfolio](https://adamilare.onrender.com)
 - ⚡ I love 💻 Solving Algorithm Problems | 📗 Reading | 🚵 Nature
 <hr>
 
